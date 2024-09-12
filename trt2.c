@@ -22,7 +22,7 @@ int main()
      2. float 2.55, 1.232 ( for decimal)
      3. char single character - M,F
     4. void (function)
-/   */
+  */
 //    int o = 5;
 //    int x = 4;
 //    int y = 7;
