@@ -14,15 +14,15 @@ int main()
 //     a = 50;//variable initialization
 //     int b = 20; //variable declaration with initialization
 //     b = 50;
-//     // constant variable read-only
+//      constant variable read-only
 //     const int c = 50;
-//     // Datatypes
-//     /*
-//     1. int 60,50,20
-//     2. float 2.55, 1.232 ( for decimal)
-//     3. char single character - M,F
-//     4. void (function)
-//     */
+//     Datatypes
+     /*
+     1. int 60,50,20
+     2. float 2.55, 1.232 ( for decimal)
+     3. char single character - M,F
+    4. void (function)
+/   */
 //    int o = 5;
 //    int x = 4;
 //    int y = 7;
@@ -30,21 +30,21 @@ int main()
 //    char c = "M";
 
 //     printf("%d,%f,%c"o,b,c);
-//     // operators
-//     // Arithematic operators
-//     // + - * / %
+//      operators
+//      Arithematic operators
+//      + - * / %
 //     int w = 23;
 //     int e = 32;
 //     int r = w+e;
-//     // The sum of 23 and 32 is 55.
+//     The sum of 23 and 32 is 55.
 //     printf(" The sum of %d and %d is %d",w,e,r);
     
 //     float b = 10.5;
 //     int u = 23;
 //     int v = (int)b /u;
-//     // int to int = int
-//     // float to int = float
-//     // float to float = float
+//      int to int = int
+//      float to int = float
+//      float to float = float
 //     float c = 4.5;
 //     int l = 15;
 //     float d = l/c;
