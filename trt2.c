@@ -1,13 +1,13 @@
 #include<stdio.h> 
 int main()
 {
-    // rules for declaring variable name
+    // rules for declaring a variable name
     /*
-    1. variable name should not start with number
-    2. variable name must not contain space and comma 
+    1. Variable name should not start with a number
+    2. Variable name must not contain a space or a comma 
     3. variable name must not contaian special character(@,#,%) except underscore(_)
-    4. variable must not conatin keywords
-    5. variable is case sensetive
+    4. Variable must not contain keywords
+    5. Variables are case sensitive
     6. No repeat of variables
     */
 //     int a; //variable declaration
@@ -20,7 +20,7 @@ int main()
      /*
      1. int 60,50,20
      2. float 2.55, 1.232 ( for decimal)
-     3. char single character - M,F
+     3. char single character - M, F
     4. void (function)
   */
 //    int o = 5;
@@ -31,7 +31,7 @@ int main()
 
 //     printf("%d,%f,%c"o,b,c);
 //      operators
-//      Arithematic operators
+//Arithmetic operators
 //      + - * / %
 //     int w = 23;
 //     int e = 32;
@@ -50,7 +50,7 @@ int main()
 //     float d = l/c;
 //     printf("%1.2f",d);
 
-    //1) Find the are of traingle
+    //1) Find the area of triangle
     int length;
     int width;
     printf("Enter length of triangle:");
