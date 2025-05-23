@@ -45,7 +45,7 @@ int main() {
     return 0;
 
 // nested if (if if)
-      int a,b,c,highest;
+      int a,b,c, highest;
 
    printf("Enter first number:"),
    scanf("%d",&a);
@@ -96,7 +96,7 @@ if(a>b && a>c)
     }
     return 0;
 
-// 3.	WAP to Print whether the year is a leap year or not.
+// 3.	WAP to print whether the year is a leap year or not.
  int year;
    printf("Enter a year: ");
    scanf("%d", &year);
@@ -189,7 +189,7 @@ int items;
   }
 
     return 0;
-// 7.	Write a program to determine if a person can rent a car based on their age and driving license status. A person must be at least 21 years old and have a valid driving license.
+// 7.	Write a program to determine if a person can rent a car based on age and driving license status. A person must be at least 21 years old and have a valid driving license.
 int Age, expire;
     printf("Enter your age:\n");
     scanf("%d",&Age);
