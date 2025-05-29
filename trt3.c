@@ -1,6 +1,5 @@
 // CONTROL  STRUCTURE
 #include <stdio.h>
-
 int main() {
     /*
     Decision control statements 
@@ -10,7 +9,6 @@ int main() {
     nested if
     switch
     */
-
 //    if else
     int a;
     printf("Enter the value of a:");
@@ -23,7 +21,7 @@ int main() {
     }
    
     return 0;
-
+    
 // if else if
     int a , b , c;
     printf("Enter the value of a:");
@@ -46,7 +44,6 @@ int main() {
 
 // nested if (if if)
       int a,b,c, highest;
-
    printf("Enter first number:"),
    scanf("%d",&a);
    printf("Enter second number:"),  
