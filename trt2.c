@@ -28,7 +28,6 @@ int main()
 //    int y = 7;
 //    float b = 2.3;
 //    char c = "M";
-
 //     printf("%d,%f,%c"o,b,c);
 //      operators
 //Arithmetic operators
