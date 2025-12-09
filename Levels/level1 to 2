@@ -1,0 +1,14 @@
+🔹 Level 1 → 2
+
+File name is - (a dash).
+Steps
+ssh bandit1@bandit.labs.overthewire.org -p 2220
+
+List files:
+ls
+
+Read file using path:
+cat ./-
+
+Password:
+rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi
