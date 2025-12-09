@@ -1,0 +1,6 @@
+🔹 Level 8 → 9
+
+Find unique line.
+
+command:
+sort data.txt | uniq -u
