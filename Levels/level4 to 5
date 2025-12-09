@@ -1,0 +1,11 @@
+🔹 Level 4 → 5
+
+Find the only human-readable file.
+Steps
+ssh bandit4@bandit.labs.overthewire.org -p 2220
+
+run
+file ./*
+
+Then read the one with ASCII text:
+cat <filename>
