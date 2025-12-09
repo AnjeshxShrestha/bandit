@@ -1,0 +1,27 @@
+Bandit Level 0 → Level 1
+Goal
+Connect to the Bandit server and find the password for the next level.
+🔹 Level Info
+Host: bandit.labs.overthewire.org
+Port: 2220
+Username: bandit0
+Password: bandit0
+🔹 Steps
+1. Connect to Bandit Level 0
+ssh bandit0@bandit.labs.overthewire.org -p 2220
+Enter password:
+bandit0
+2. Find the password for Level 1
+The password is stored in a file named readme.
+Run:
+ls
+Output will show:
+readme
+View the file:
+cat readme
+You will see the password for bandit1.
+🔹 Password for Level 1
+NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
+Next Level
+To move to the next level:
+ssh bandit1@bandit.labs.overthewire.org -p 2220
