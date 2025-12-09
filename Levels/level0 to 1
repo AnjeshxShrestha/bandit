@@ -1,0 +1,17 @@
+🔹 Level 0 → 1
+
+Username: bandit0
+Password: bandit0
+
+Steps
+Connect:
+ssh bandit0@bandit.labs.overthewire.org -p 2220
+
+List files:
+ls
+
+Find readme and display it:
+cat readme
+
+Password for Level 1:
+NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
