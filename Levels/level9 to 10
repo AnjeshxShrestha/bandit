@@ -1,0 +1,6 @@
+🔹 Level 9 → 10
+
+Find human-readable strings.
+
+command:
+strings data.txt | grep =
